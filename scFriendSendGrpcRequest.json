@@ -1,0 +1,88 @@
+{
+    "ScriptMethod": [
+        {
+            "Address": 85312772,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend.ListV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendListV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ListV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ListV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_FriendListV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85313124,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend.SendRequestsV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendSendRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SendRequestsV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SendRequestsV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_FriendSendRequestsV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85313548,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend.CancelSentRequestsV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendCancelSentRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend_CancelSentRequestsV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Friend_CancelSentRequestsV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_FriendCancelSentRequestsV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85313976,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend.ApproveRequestV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendApproveRequestV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ApproveRequestV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ApproveRequestV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_FriendApproveRequestV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85314404,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend.RejectRequestsV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendRejectRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend_RejectRequestsV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Friend_RejectRequestsV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_FriendRejectRequestsV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85314832,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend.DeleteV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendDeleteV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend_DeleteV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Friend_DeleteV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_FriendDeleteV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85315260,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend.SearchV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendSearchV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SearchV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SearchV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_FriendSearchV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85417444,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Trade.GetFriendsV1Requester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_TradeGetFriendsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Trade_GetFriendsV1Requester__SendGrpcRequest (Takasho_Endpoint_LettuceServer_PlayerApi_Trade_GetFriendsV1Requester_o* __this, Takasho_Schema_LettuceServer_PlayerApi_TradeGetFriendsV1_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85457492,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend.AddRequester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendAdd_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddRequester__SendGrpcRequest (Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddRequester_o* __this, Takasho_Schema_LettuceDebugServer_Debug_FriendAdd_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85457844,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend.AddExistingRequester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendAddExisting_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddExistingRequester__SendGrpcRequest (Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddExistingRequester_o* __this, Takasho_Schema_LettuceDebugServer_Debug_FriendAddExisting_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85458196,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend.SendRequestsRequester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendSendRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend_SendRequestsRequester__SendGrpcRequest (Takasho_Endpoint_LettuceDebugServer_Debug_Friend_SendRequestsRequester_o* __this, Takasho_Schema_LettuceDebugServer_Debug_FriendSendRequests_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85458552,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend.ApproveRequestsRequester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendApproveRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend_ApproveRequestsRequester__SendGrpcRequest (Takasho_Endpoint_LettuceDebugServer_Debug_Friend_ApproveRequestsRequester_o* __this, Takasho_Schema_LettuceDebugServer_Debug_FriendApproveRequests_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85458908,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend.CancelRequestsRequester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendCancelRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend_CancelRequestsRequester__SendGrpcRequest (Takasho_Endpoint_LettuceDebugServer_Debug_Friend_CancelRequestsRequester_o* __this, Takasho_Schema_LettuceDebugServer_Debug_FriendCancelRequests_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        },
+        {
+            "Address": 85459264,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend.RejectRequestsRequester$$SendGrpcRequest",
+            "Signature": "Grpc_Core_AsyncUnaryCall_FriendRejectRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend_RejectRequestsRequester__SendGrpcRequest (Takasho_Endpoint_LettuceDebugServer_Debug_Friend_RejectRequestsRequester_o* __this, Takasho_Schema_LettuceDebugServer_Debug_FriendRejectRequests_Types_Request_o* body, Grpc_Core_CallInvoker_o* callInvoker, Grpc_Core_Metadata_o* headers, System_Nullable_DateTime__o deadline, const MethodInfo* method);",
+            "TypeSignature": "iiiiiii"
+        }
+    ]
+}

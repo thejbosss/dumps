@@ -1,0 +1,340 @@
+{
+    "ScriptMethod": [
+        {
+            "Address": 85307872,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendListV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__Send (Takasho_Schema_LettuceServer_PlayerApi_FriendListV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85308028,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendListV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendListV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85308272,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendListV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_FriendListV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85308428,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendListV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendListV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85308600,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendSendRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__Send (Takasho_Schema_LettuceServer_PlayerApi_FriendSendRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85308756,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendSendRequestsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendSendRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85308932,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendSendRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_FriendSendRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85309088,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendSendRequestsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendSendRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85309264,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendCancelSentRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__Send (Takasho_Schema_LettuceServer_PlayerApi_FriendCancelSentRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85309420,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendCancelSentRequestsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendCancelSentRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85309596,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendCancelSentRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_FriendCancelSentRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85309752,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendCancelSentRequestsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendCancelSentRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85309928,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendApproveRequestV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__Send (Takasho_Schema_LettuceServer_PlayerApi_FriendApproveRequestV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85310084,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendApproveRequestV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendApproveRequestV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85310260,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendApproveRequestV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_FriendApproveRequestV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85310416,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendApproveRequestV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendApproveRequestV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85310592,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendRejectRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__Send (Takasho_Schema_LettuceServer_PlayerApi_FriendRejectRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85310748,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendRejectRequestsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendRejectRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85310924,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendRejectRequestsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_FriendRejectRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85311080,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendRejectRequestsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendRejectRequestsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85311256,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendDeleteV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__Send (Takasho_Schema_LettuceServer_PlayerApi_FriendDeleteV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85311412,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendDeleteV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendDeleteV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85311588,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendDeleteV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_FriendDeleteV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85311744,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendDeleteV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendDeleteV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85311920,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendSearchV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__Send (Takasho_Schema_LettuceServer_PlayerApi_FriendSearchV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85312076,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendSearchV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendSearchV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85312252,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendSearchV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_FriendSearchV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85312408,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendSearchV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_FriendSearchV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85409688,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Trade$$Send",
+            "Signature": "Takasho_APIResult_TradeGetFriendsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Trade__Send (Takasho_Schema_LettuceServer_PlayerApi_TradeGetFriendsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85409844,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Trade$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_TradeGetFriendsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Trade__SendAsync (Takasho_Schema_LettuceServer_PlayerApi_TradeGetFriendsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85410088,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Trade$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_TradeGetFriendsV1_Types_Response__o* Takasho_Endpoint_LettuceServer_PlayerApi_Trade__SendWithAuthorize (Takasho_Schema_LettuceServer_PlayerApi_TradeGetFriendsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85410244,
+            "Name": "Takasho.Endpoint.LettuceServer.PlayerApi.Trade$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_TradeGetFriendsV1_Types_Response___o* Takasho_Endpoint_LettuceServer_PlayerApi_Trade__SendWithAuthorizeAsync (Takasho_Schema_LettuceServer_PlayerApi_TradeGetFriendsV1_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85452932,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendAdd_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__Send (Takasho_Schema_LettuceDebugServer_Debug_FriendAdd_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85453088,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendAdd_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendAdd_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85453332,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendAdd_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorize (Takasho_Schema_LettuceDebugServer_Debug_FriendAdd_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85453488,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendAdd_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendAdd_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85453660,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendAddExisting_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__Send (Takasho_Schema_LettuceDebugServer_Debug_FriendAddExisting_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85453816,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendAddExisting_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendAddExisting_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85454060,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendAddExisting_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorize (Takasho_Schema_LettuceDebugServer_Debug_FriendAddExisting_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85454216,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendAddExisting_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendAddExisting_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85454388,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendSendRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__Send (Takasho_Schema_LettuceDebugServer_Debug_FriendSendRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85454544,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendSendRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendSendRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85454788,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendSendRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorize (Takasho_Schema_LettuceDebugServer_Debug_FriendSendRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85454944,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendSendRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendSendRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85455116,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendApproveRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__Send (Takasho_Schema_LettuceDebugServer_Debug_FriendApproveRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85455272,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendApproveRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendApproveRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85455516,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendApproveRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorize (Takasho_Schema_LettuceDebugServer_Debug_FriendApproveRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85455672,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendApproveRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendApproveRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85455844,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendCancelRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__Send (Takasho_Schema_LettuceDebugServer_Debug_FriendCancelRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85456000,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendCancelRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendCancelRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85456244,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendCancelRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorize (Takasho_Schema_LettuceDebugServer_Debug_FriendCancelRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85456400,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendCancelRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendCancelRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85456572,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$Send",
+            "Signature": "Takasho_APIResult_FriendRejectRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__Send (Takasho_Schema_LettuceDebugServer_Debug_FriendRejectRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85456728,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendRejectRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendRejectRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85456972,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorize",
+            "Signature": "Takasho_APIResult_FriendRejectRequests_Types_Response__o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorize (Takasho_Schema_LettuceDebugServer_Debug_FriendRejectRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        },
+        {
+            "Address": 85457128,
+            "Name": "Takasho.Endpoint.LettuceDebugServer.Debug.Friend$$SendWithAuthorizeAsync",
+            "Signature": "System_Threading_Tasks_Task_APIResult_FriendRejectRequests_Types_Response___o* Takasho_Endpoint_LettuceDebugServer_Debug_Friend__SendWithAuthorizeAsync (Takasho_Schema_LettuceDebugServer_Debug_FriendRejectRequests_Types_Request_o* req, Takasho_DeviceContext_o* deviceContext, System_Nullable_RequestOptions__o requestOptions, const MethodInfo* method);",
+            "TypeSignature": "iiiii"
+        }
+    ]
+}

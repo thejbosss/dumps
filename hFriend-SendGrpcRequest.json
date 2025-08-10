@@ -1,0 +1,60 @@
+{
+    "Structs": [
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ListV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ListV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SendRequestsV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SendRequestsV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Friend_CancelSentRequestsV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Friend_CancelSentRequestsV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ApproveRequestV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Friend_ApproveRequestV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Friend_RejectRequestsV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Friend_RejectRequestsV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Friend_DeleteV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Friend_DeleteV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SearchV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Friend_SearchV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceServer_PlayerApi_Trade_GetFriendsV1Requester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceServer_PlayerApi_Trade_GetFriendsV1Requester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddRequester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddRequester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddExistingRequester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceDebugServer_Debug_Friend_AddExistingRequester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceDebugServer_Debug_Friend_SendRequestsRequester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceDebugServer_Debug_Friend_SendRequestsRequester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceDebugServer_Debug_Friend_ApproveRequestsRequester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceDebugServer_Debug_Friend_ApproveRequestsRequester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceDebugServer_Debug_Friend_CancelRequestsRequester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceDebugServer_Debug_Friend_CancelRequestsRequester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        },
+        {
+            "Name": "Takasho_Endpoint_LettuceDebugServer_Debug_Friend_RejectRequestsRequester_VTable",
+            "Content": "struct Takasho_Endpoint_LettuceDebugServer_Debug_Friend_RejectRequestsRequester_VTable {\\n\\tVirtualInvokeData _0_Equals;\\n\\tVirtualInvokeData _1_Finalize;\\n\\tVirtualInvokeData _2_GetHashCode;\\n\\tVirtualInvokeData _3_ToString;\\n\\tVirtualInvokeData _4_get_EndpointId;\\n\\tVirtualInvokeData _5_SendGrpcRequest;\\n\\tVirtualInvokeData _6_ParseErrorCode;\\n};"
+        }
+    ]
+}
