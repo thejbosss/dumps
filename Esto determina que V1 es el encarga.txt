@@ -1,0 +1,137 @@
+Esto determina que V1 es el encargado
+C:\Proyec\research\PokemonTCG-Research\Frida>frida -U -p 9105 -l agent-hooksr.js --realm=emulated
+     ____
+    / _  |   Frida 16.7.19 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to 2107113SI (id=127.0.0.1:5555)
+Attaching...
+🔍 Buscando clases para hook SendGrpcRequest...
+✅ Método SendGrpcRequest sin V1 encontrado. Instalando hook...
+✅ Método SendGrpcRequest con V1 encontrado. Instalando hook...
+[2107113SI::PID::9105 ]-> [Hook con V1] SendGrpcRequest llamado con los siguientes args:
+[Hook con V1] Parametro 0: {
+  "handle": "0x7bd13424a150"
+}
+[Hook con V1] Parametro 1: {
+  "handle": "0x7bd1342d6630"
+}
+[Hook con V1] Parametro 2: {
+  "handle": "0x7bd1342d65a0"
+}
+[Hook con V1] Parametro 3: {
+  "handle": "0x7bd13736f8a0",
+  "type": {
+    "handle": "0x7bd25b28a540"
+  }
+}
+[Hook con V1] Error en SendGrpcRequest: TypeError: cannot read property 'call' of undefined
+TypeError: cannot read property 'call' of undefined
+    at <anonymous> (/agent/import-hooksr.js:103)
+    at call (native)
+    at <anonymous> (/agent/import-hooksr.js:103)
+
+Este es el código, puesto que a la hora de realizar el hook las versiones sin V1 no hacen nada, se determina que los métodos que incluyen V1 son los correctos.
+
+import "frida-il2cpp-bridge";
+
+declare const Il2Cpp: any;
+
+Il2Cpp.perform(() => {
+  console.log("🔍 Buscando clases para hook SendGrpcRequest...");
+
+  let targetClassV1: any = null;
+  let targetClassSinV1: any = null;
+
+  // Recorrer los assemblies buscando las clases correspondientes
+  Il2Cpp.domain.assemblies.forEach((assembly: any) => {
+    assembly.image.classes.forEach((cls: any) => {
+      if (cls.name === "SendRequestsV1Requester") {
+        targetClassV1 = cls; // Clase con V1
+      }
+      if (cls.name === "SendRequestsRequester") {
+        targetClassSinV1 = cls; // Clase sin V1
+      }
+    });
+  });
+
+  // Verificación para clase sin V1
+  if (targetClassSinV1) {
+    if (!targetClassSinV1.methods) {
+      console.error("❌ La clase sin V1 no tiene métodos.");
+      return;
+    }
+
+    const methodSinV1 = targetClassSinV1.methods.find((m: any) => m.name === "SendGrpcRequest");
+
+    if (!methodSinV1) {
+      console.error("❌ Método SendGrpcRequest sin V1 no encontrado.");
+      return;
+    }
+
+    console.log("✅ Método SendGrpcRequest sin V1 encontrado. Instalando hook...");
+
+    const originalImplementationSinV1 = methodSinV1.implementation;
+
+    methodSinV1.implementation = function (...args: any[]) {
+      try {
+        // Imprimimos todos los parámetros recibidos por el método
+        console.log("[Hook sin V1] SendGrpcRequest llamado con los siguientes args:");
+        args.forEach((arg, index) => {
+          console.log(`[Hook sin V1] Parametro ${index}:`, JSON.stringify(arg, null, 2));
+        });
+
+        // Llamamos a la implementación original
+        return originalImplementationSinV1.call(this, ...args);
+      } catch (e) {
+        console.error("[Hook sin V1] Error en SendGrpcRequest:", e);
+        throw e;
+      }
+    };
+  } else {
+    console.error("❌ Clase sin V1 no encontrada.");
+  }
+
+  // Verificación para clase con V1
+  if (targetClassV1) {
+    if (!targetClassV1.methods) {
+      console.error("❌ La clase con V1 no tiene métodos.");
+      return;
+    }
+
+    const methodV1 = targetClassV1.methods.find((m: any) => m.name === "SendGrpcRequest");
+
+    if (!methodV1) {
+      console.error("❌ Método SendGrpcRequest con V1 no encontrado.");
+      return;
+    }
+
+    console.log("✅ Método SendGrpcRequest con V1 encontrado. Instalando hook...");
+
+    const originalImplementationV1 = methodV1.implementation;
+
+    methodV1.implementation = function (...args: any[]) {
+      try {
+        // Imprimimos todos los parámetros recibidos por el método
+        console.log("[Hook con V1] SendGrpcRequest llamado con los siguientes args:");
+        args.forEach((arg, index) => {
+          console.log(`[Hook con V1] Parametro ${index}:`, JSON.stringify(arg, null, 2));
+        });
+
+        // Llamamos a la implementación original
+        return originalImplementationV1.call(this, ...args);
+      } catch (e) {
+        console.error("[Hook con V1] Error en SendGrpcRequest:", e);
+        throw e;
+      }
+    };
+  } else {
+    console.error("❌ Clase con V1 no encontrada.");
+  }
+});

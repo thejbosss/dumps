@@ -1,0 +1,234 @@
+🔍 Listando clases relacionadas con 'SendRequests' o 'Friend'...
+🗂 Assembly: Takasho.dll | Namespace:  | Clase: SendRequestsV1Requester
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Endpoint.LettuceServer.PlayerApi | Clase: Friend
+🗂 Assembly: Takasho.dll | Namespace:  | Clase: GetFriendsV1Requester
+🗂 Assembly: Takasho.dll | Namespace:  | Clase: SendRequestsRequester
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Endpoint.LettuceDebugServer.Debug | Clase: Friend
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceDebugServer.Debug | Clase: FriendAdd
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceDebugServer.Debug | Clase: FriendAddExisting
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceDebugServer.Debug | Clase: FriendSendRequests
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceDebugServer.Debug | Clase: FriendApproveRequests
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceDebugServer.Debug | Clase: FriendCancelRequests
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceDebugServer.Debug | Clase: FriendRejectRequests
+🗂 Assembly: Takasho.dll | Namespace:  | Clase: FriendClient
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceDebugServer.Debug | Clase: Friend
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.Resource.Friend | Clase: FriendReflection
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.Resource.Friend | Clase: FriendStatus
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.Resource.Friend | Clase: Friend
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.Resource.Friend | Clase: FriendRequest
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.Resource.Friend | Clase: SearchResult
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendReflection
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendListV1
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendSendRequestsV1
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendCancelSentRequestsV1
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendApproveRequestV1
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendRejectRequestsV1
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendDeleteV1
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: FriendSearchV1
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: TradeGetFriendsV1
+🗂 Assembly: Takasho.dll | Namespace:  | Clase: FriendClient
+🗂 Assembly: Takasho.dll | Namespace: Takasho.Schema.LettuceServer.PlayerApi | Clase: Friend
+🗂 Assembly: Lettuce.Presentation.Activity.Common.Dialog.dll | Namespace:  | Clase: <FriendCancelAsync>d__14
+🗂 Assembly: Lettuce.Presentation.Activity.Common.Dialog.dll | Namespace:  | Clase: <FriendRequestAsync>d__13
+🗂 Assembly: Lettuce.Presentation.Activity.Common.Dialog.dll | Namespace:  | Clase: <ShowFriendRequestErrorAsync>d__16
+🗂 Assembly: Lettuce.Presentation.Activity.Common.Dialog.dll | Namespace:  | Clase: <Lettuce-Presentation-Activity-Common-ITipTransaction-FriendCancelAsync>d__21
+🗂 Assembly: Lettuce.Presentation.Activity.Common.Dialog.dll | Namespace:  | Clase: <Lettuce-Presentation-Activity-Common-ITipTransaction-FriendRequestAsync>d__20
+🗂 Assembly: Lettuce.Presentation.Activity.Common.Dialog.dll | Namespace:  | Clase: <Lettuce-Presentation-Activity-Common-ITipTransaction-ShowFriendRequestErrorAsync>d__23
+🗂 Assembly: Lettuce.Presentation.Activity.Common.Dialog.dll | Namespace:  | Clase: <Lettuce-Presentation-Common-Presenter-IFriendRequestErrorPresenterTransaction-OnPositiveButtonCloseAsync>d__24
+🗂 Assembly: System.Runtime.Serialization.dll | Namespace: System.Runtime.CompilerServices | Clase: FriendAccessAllowedAttribute
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Muscle | Clase: PlayerFriendData
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Muscle | Clase: FriendFeatureSetting
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Muscle | Clase: FriendFeatureSettingKey
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Dto.MasterData.Storage.Table | Clase: PlayerFriendDataTable
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Dto.MasterData.Formatters.Lettuce.Muscle | Clase: FriendFeatureSettingFormatter
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Dto.MasterData.Formatters.Lettuce.Muscle | Clase: FriendFeatureSettingKeyFormatter
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Dto.MasterData.Formatters.Lettuce.Muscle | Clase: PlayerFriendDataFormatter
+🗂 Assembly: Lettuce.Dto.MasterData.dll | Namespace: Lettuce.Dto.MasterData.Tables | Clase: FriendFeatureSettingTable
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: IFriendFeatureSettingRepository
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: PlayerFriendDataId
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: FriendFeatureSettingId
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: FriendFeatureSettingEntity
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: IPlayerFriendDataRepository
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: PlayerFriendDataEntity
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: FeedSendFriendCancelResult
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: FeedSendFriendRequestResult
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: FriendData
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: FriendListResult
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: FriendSearchResult
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: IFriendService
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: PlayerProfileFriendStatus
+🗂 Assembly: Lettuce.Domain.Common.dll | Namespace: Lettuce.Domain.Common | Clase: TradeGetFriendsResult
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <GetOtherListByFriendId>d__17
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <SendFriendCancel>d__18
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <SendFriendRequest>d__17
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <SendFriendCancel>d__30
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <SendFriendRequest>d__29
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <FriendApproveRequestAsync>d__10
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <FriendCancelSentRequestsAsync>d__15
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <FriendDeleteAsync>d__12
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <FriendListAsync>d__7
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <FriendRejectRequestsAsync>d__11
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <FriendSearchAsync>d__8
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <FriendSendRequestsAsync>d__13
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace: Lettuce.Infrastructure.Impl.DomainService | Clase: FriendService
+🗂 Assembly: Lettuce.Infrastructure.Impl.DomainService.dll | Namespace:  | Clase: <GetFriends>d__28
+🗂 Assembly: Lettuce.Presentation.Common.Presenter.dll | Namespace: Lettuce.Presentation.Common.Presenter | Clase: FriendRequestErrorPresenter
+🗂 Assembly: Lettuce.Presentation.Common.Presenter.dll | Namespace: Lettuce.Presentation.Common.Presenter | Clase: IFriendRequestErrorPresenterTransaction
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendAddState
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace:  | Clase: <UpdateFriendListAsync>d__3
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendSelectState
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace:  | Clase: <UpdateFriendListAsync>d__0
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace:  | Clase: <UpdateFriendListAsync>d__5
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendDesiredCardViewModel
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendSelectDialog
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace:  | Clase: <GoToFriend>d__14
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace:  | Clase: <UpdateFriendListAsync>d__23
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendSelectDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendSelectDialogViewModel
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendSelectListCell
+🗂 Assembly: Lettuce.Presentation.Trade.dll | Namespace: Lettuce.Presentation.Trade | Clase: TradeFriendSelectListCellViewModel
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <GetOtherListByFriendId>d__8
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <FriendApproveRequestAsync>d__3
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <FriendCancelSentRequestsAsync>d__7
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <FriendDeleteAsync>d__5
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <FriendListAsync>d__1
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <FriendRejectRequestsAsync>d__4
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <FriendSearchAsync>d__2
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <FriendSendRequestsAsync>d__6
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace: Lettuce.Takasho.Impl.Service | Clase: TakashoFriendService
+🗂 Assembly: Lettuce.Takasho.Impl.Service.dll | Namespace:  | Clase: <GetFriends>d__3
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendApproveRequestV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendCancelSentRequestsV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendDeleteV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendFriendEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendFriendRequestEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendListV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendRejectRequestsV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendSearchResultEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendSearchV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendSendRequestsV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtTradeGetFriendsV1ResponseEntity
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: ITakashoFriendService
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: TakashoFriendListResult
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: TakashoFriendSearchResult
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: TakashoTradeGetFriendsResult
+🗂 Assembly: Lettuce.Takasho.Core.dll | Namespace: Lettuce.Takasho.Core | Clase: LtFriendFriendStatus
+🗂 Assembly: Lettuce.Infrastructure.Impl.Repository.dll | Namespace: Lettuce.Infrastructure.Impl.Repository | Clase: FriendFeatureSettingRepository
+🗂 Assembly: Lettuce.Infrastructure.Impl.Repository.dll | Namespace: Lettuce.Infrastructure.Impl.Repository | Clase: PlayerFriendDataRepository
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <Lettuce-Presentation-Common-Presenter-IFriendRequestErrorPresenterTransaction-OnPositiveButtonCloseAsync>d__105
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendDeleteTransaction-FriendDeleteAsync>d__82
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <Lettuce-Presentation-Profile-IProfileTopTransaction-ProcessFriendApproveRequestAsync>d__84
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <Lettuce-Presentation-Profile-IProfileTopTransaction-ProcessFriendCancelRequestAsync>d__80
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <Lettuce-Presentation-Profile-IProfileTopTransaction-ProcessFriendDeleteRequestAsync>d__81
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <Lettuce-Presentation-Profile-IProfileTopTransaction-ProcessFriendRejectRequestAsync>d__83
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <Lettuce-Presentation-Profile-IProfileTopTransaction-ProcessFriendRequestAsync>d__79
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace:  | Clase: <OnOtherFriendRequestTap>d__27
+🗂 Assembly: Lettuce.Presentation.Profile.dll | Namespace: Lettuce.Presentation.Profile | Clase: ProfileUITopFriendState
+🗂 Assembly: Lettuce.Presentation.Feed.dll | Namespace:  | Clase: <Lettuce-Presentation-Activity-Common-ITipTransaction-FriendCancelAsync>d__24
+🗂 Assembly: Lettuce.Presentation.Feed.dll | Namespace:  | Clase: <Lettuce-Presentation-Activity-Common-ITipTransaction-FriendRequestAsync>d__23
+🗂 Assembly: Lettuce.Presentation.Feed.dll | Namespace:  | Clase: <Lettuce-Presentation-Activity-Common-ITipTransaction-ShowFriendRequestErrorAsync>d__26
+🗂 Assembly: Lettuce.Presentation.Feed.dll | Namespace:  | Clase: <Lettuce-Presentation-Common-Presenter-IFriendRequestErrorPresenterTransaction-OnPositiveButtonCloseAsync>d__28
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: FriendApproveRequestV1Wrapper
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: FriendCancelSentRequestsV1Wrapper
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: FriendDeleteV1Wrapper
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: FriendListV1Wrapper
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: FriendRejectRequestsV1Wrapper
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: FriendSearchV1Wrapper
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: FriendSendRequestsV1Wrapper
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper.dll | Namespace: Lettuce.Takasho.Impl.ApiWrapper | Clase: TradeGetFriendsV1Wrapper
+🗂 Assembly: Lettuce.Presentation.Social.dll | Namespace:  | Clase: SocialFriendIdIsSelfPresenter
+🗂 Assembly: Lettuce.Presentation.Social.dll | Namespace:  | Clase: SocialFriendIdNotFoundPresenter
+🗂 Assembly: Lettuce.Presentation.Social.dll | Namespace:  | Clase: <<ShowFriendIdIsSelfAsync>b__15_0>d
+🗂 Assembly: Lettuce.Presentation.Social.dll | Namespace:  | Clase: <<ShowFriendIdNotFoundAsync>b__17_0>d
+🗂 Assembly: Lettuce.Presentation.Social.dll | Namespace:  | Clase: <ShowFriendIdIsSelfAsync>d__15
+🗂 Assembly: Lettuce.Presentation.Social.dll | Namespace:  | Clase: <ShowFriendIdNotFoundAsync>d__17
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendApproveRequestV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendCancelSentRequestsV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendDeleteV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendFriendEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendFriendRequestEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendListV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendRejectRequestsV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendSearchResultEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendSearchV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendSendRequestsV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtTradeGetFriendsV1ResponseEntityConverter
+🗂 Assembly: Lettuce.Takasho.Impl.TakashoWrapper.Converter.dll | Namespace: Lettuce.Takasho.Impl | Clase: LtFriendFriendStatusConverter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTransaction-CloseAsync>d__12
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTransaction-GoToProfileAsync>d__13
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendActivity
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: IFriendTransaction
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendSequenceContext
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendSequencePresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendInitState
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendStateId
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendTopState
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <UpdateFriendPlayerStorageAsync>d__32
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendViewModel
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Common-Presenter-IFriendRequestErrorPresenterTransaction-OnPositiveButtonCloseAsync>d__48
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendDeleteTransaction-FriendDeleteAsync>d__46
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-CloseAllCancelApprovalAsync>d__28
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-CloseAllRejectionAsync>d__31
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-CloseFriendSearchAsync>d__33
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-CloseFriendSearchResultAsync>d__40
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-FriendDeleteRequestAsync>d__47
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-FriendRejectRequestsAsync>d__43
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-FriendSearchFriendCancelSentRequestsAsync>d__39
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-FriendSearchFriendSendRequestsAsync>d__38
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowAllCancelApprovalAsync>d__27
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowAllRejectionAsync>d__30
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowFriendApprovalOkAsync>d__41
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowFriendFriendCancelSentRequestAsync>d__42
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowFriendSearchAsync>d__32
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowFriendSearchResultAsync>d__37
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowOtherCollectionDetail>d__45
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowPlayerIdCopyToastAsync>d__34
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowProfile>d__44
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowUserSearchErrorAsync>d__35
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <Lettuce-Presentation-Friend-IFriendTopTransaction-ShowUserSearchMyFriendIdAsync>d__36
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <UpdateFriendListAsync>d__20
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <UpdateSearchResultTargetFriendStatus>d__21
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendTopPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: IFriendTopTransaction
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: IFriendDeleteTransaction
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendAllCancelApprovalDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendAllRejectionDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendApprovalOkResultDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendHelper
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendPlayerSearchErrorPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendSearchDialog
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendSearchDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendSearchResultDialog
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <FriendApprovalOkAsync>d__14
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <FriendCancelSentRequestsAsync>d__12
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <FriendDeleteAsync>d__15
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <FriendRejectRequestsAsync>d__13
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <FriendSendRequestsAsync>d__11
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <UpdateTargetFriendStatus>d__8
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendSearchResultDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <ShowFriendTopListAnimationAsync>d__34
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendTopDialog
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: <ShowFriendTopListAnimationAsync>d__15
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendTopDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendTopListCell
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace:  | Clase: FriendCellView
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendTopListCellViewModel
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendUnregisterDialog
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendUnregisterDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendUserIdSearchErrorPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendSort
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendUISortDialogViewModel
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendUISortOrderArrowView
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendUISortToggleButton
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendUISortToggleGroup
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendUISortToggleItem
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendSortDialog
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: SocialUIFriendSortDialogPresenter
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendStateMachine
+🗂 Assembly: Lettuce.Presentation.Friend.dll | Namespace: Lettuce.Presentation.Friend | Clase: FriendStateBase
+🗂 Assembly: Lettuce.Infrastructure.Impl.ActivityData.dll | Namespace:  | Clase: ProfileOtherPlayerUpdatedFriendStatusMessage
+🗂 Assembly: Lettuce.Infrastructure.Impl.ActivityData.dll | Namespace:  | Clase: ReturnToSocialFromFriendMessage
+🗂 Assembly: Lettuce.Infrastructure.Impl.ActivityData.dll | Namespace: Lettuce.Infrastructure.Impl.ActivityData | Clase: FriendActivityParameter
+🗂 Assembly: Lettuce.Infrastructure.ActivityTransaction.dll | Namespace: Lettuce.Infrastructure.Impl.ActivityTransaction | Clase: FriendTopPageTransaction
+🗂 Assembly: Lettuce.Infrastructure.Friend.dll | Namespace: Lettuce.Infrastructure.Friend | Clase: FriendSystem
+[2107113SI::PID::9105 ]->

@@ -1,0 +1,618 @@
+Listando assemblies disponibles:
+• Lettuce.BattleEngine.Serialization.Runtime
+• Takasho
+• Lettuce.Presentation.Battle
+• Lettuce.BattleEngine.Core.Runtime
+• mscorlib
+• UnityEngine.UIElementsModule
+• Lettuce.Presentation.Activity.Common.Dialog
+• System.Xml
+• System.Runtime.Serialization
+• Lettuce.Dto.MasterData
+• System
+• UnityEngine.CoreModule
+• Lettuce.Presentation.HomeBattleMenu
+• Lettuce.Domain.Common
+• Lettuce.Infrastructure.Impl.DomainService
+• Unity.RenderPipelines.Universal.Runtime
+• Google.Protobuf
+• Lettuce.Presentation.Common.Presenter
+• Lettuce.BattleEngine.Summary.Runtime
+• Lettuce.Presentation.Trade
+• Unity.TextMeshPro
+• Lettuce.Takasho.Impl.Service
+• Cinemachine
+• Lettuce.Infrastructure.UIComponent
+• Lettuce.Takasho.Core
+• Lettuce.Presentation.Activity.PackOpen
+• Lettuce.Infrastructure.Impl.Repository
+• UnityEngine.UI
+• Lettuce.Presentation.Title
+• Lettuce.Presentation.Mission
+• Lettuce.Presentation.Profile
+• Unity.RenderPipelines.Core.Runtime
+• UnityEngine.TextCoreTextEngineModule
+• Lettuce.Presentation.Pack
+• Lettuce.Presentation.Feed
+• Lettuce.Infrastructure.Card.Core.Runtime
+• Lettuce.Presentation.Shop
+• protobuf-net
+• Lettuce.Presentation.Album
+• Lettuce.Presentation.HomeBattleResult
+• Lettuce.Infrastructure.Impl.Localize
+• MtUISystem.ViewComponent
+• Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper
+• CriMw.CriWare.Runtime
+• Grpc.Net.Client
+• Lettuce.BattleAI.Npc.Runtime
+• Lettuce.Presentation.Social
+• Lettuce.Presentation.CollectionBoard
+• Lettuce.BattleAI.Common.Runtime
+• UniTask
+• Lettuce.Infrastructure.BattlePvP
+• MessagePack
+• Unity.ResourceManager
+• Lettuce.NPF.Impl
+• Lettuce.Presentation.Library
+• Backtrace.Unity
+• Lettuce.Presentation.Home
+• Lettuce.BattleAI.ML.Runtime
+• Mono.Security
+• Lettuce.Infrastructure.ResourcePath
+• MtUISystem.Core
+• Lettuce.Presentation.Subscription
+• UniRx
+• Lettuce.Takasho.Impl.TakashoWrapper.Converter
+• Lettuce.Presentation.Activity.Common.System
+• Lettuce.Presentation.Friend
+• Lettuce.infrastructure.Mission
+• Lettuce.Infrastructure.Guide
+• Unity.Timeline
+• Gretel.Core
+• Lettuce.infrastructure.BootSequence
+• NPFSDK
+• System.Core
+• Lettuce.Infrastructure.ItemShot
+• UnityEngine.IMGUIModule
+• UnityEngine.AndroidJNIModule
+• System.IO.Compression
+• System.Net.Http
+• Sharin.Portable.Foundation.Runtime
+• Lettuce.Infrastructure.BattleEngineIntegration
+• Lettuce.Presentation.Activity.FirstTutorial
+• UnityEngine
+• Aladin.Core
+• Lettuce.Presentation.BattleTutorial
+• System.ServiceModel.Internals
+• Cysharp.Net.Http.YetAnotherHttpHandler
+• Lettuce.Presentation.Common.Component
+• Sharin.Resources.Runtime
+• Firebase.App
+• DLRack.OnnxRuntime
+• Lettuce.Presentation.HomeBattleMenu.Foundation
+• UnityEngine.AnimationModule
+• Lettuce.Infrastructure.Impl.UI
+• DGFW.EffectMaterialGenerator.Runtime
+• Lettuce.Presentation.Activity.SubMenu
+• Gretel.Logging
+• Lettuce.Presentation.Common.Battle
+• AdjustSdk.Scripts
+• Lettuce.Infrastructure.UI
+• UnityEngine.ParticleSystemModule
+• Lettuce.BattleAI.TagEvaluator.Runtime
+• Lettuce.Infrastructure.Impl.ActivityData
+• UnityEngine.PropertiesModule
+• Lettuce.Infrastructure.Supply.DisplayBoard.Runtime
+• Lettuce.Presentation.Activity.CardAcquire
+• Unity.2D.Animation.Runtime
+• Unity.Collections
+• Lettuce.Application.ApplicationService
+• Lettuce.Graphics.Effect.Runtime
+• Lettuce.Infrastructure.Library.Core
+• System.IO.Pipelines
+• Sharin.Activities.Runtime
+• Lettuce.Infrastructure.Asset3D.Core.Runtime
+• Lettuce.Infrastructure.BattleAIIntegration
+• Lettuce.Presentation.PresentBox
+• Lettuce.Infrastructure.Card
+• Lettuce.BattleEngine.Automaton.Runtime
+• Lettuce.Presentation.Common.Rendering
+• System.Diagnostics.DiagnosticSource
+• GuardProperty
+• Lettuce.Infrastructure.Impl.Audio
+• Lettuce.Graphics.Rendering.Runtime
+• UnityEngine.UnityWebRequestModule
+• Unity.Burst
+• Lettuce.Infrastructure.Core
+• Lettuce.Infrastructure.LabelSystem
+• Unity.Notifications.Android
+• Lettuce.BattleEngine.MasterData.Runtime
+• Lettuce.Infrastructure.Dialog
+• Lettuce.NPF.Core
+• MtUISystem.LocParser
+• Lettuce.Infrastructure.BattlePvP.Unity
+• Sharin.Foundation.Runtime
+• Lettuce.Infrastructure.RankMatch
+• Lettuce.Infrastructure.Impl.Config
+• UnityEngine.PhysicsModule
+• Grpc.Core.Api
+• UnityEngine.TextCoreFontEngineModule
+• Lettuce.Infrastructure.Activity
+• System.Numerics
+• Microsoft.Extensions.Logging.Abstractions
+• Lettuce.Presentation.BattleTutorialPlayGuide
+• ZString
+• Firebase.Messaging
+• Lettuce.Infrastructure.Impl.Library
+• Unity.Mathematics
+• UnityEngine.UIModule
+• Lettuce.Infrastructure.UserPreferences
+• Lettuce.Presentation.Common.CardTrade.Runtime
+• Lettuce.Presentation.Inventory
+• Firebase.Platform
+• System.Threading.Channels
+• Lettuce.Infrastructure.Wipe
+• Lettuce.Infrastructure.Impl.AnalyticsLog
+• Lettuce.Infrastructure.Resource
+• Abdool.Runtime
+• Lettuce.Infrastructure.DataProviding
+• Lettuce.Infrastructure.Pack.Core.Runtime
+• Lettuce.Infrastructure.Supply.BattleField.Core.Runtime
+• Lettuce.Infrastructure.Timeline
+• Google.Play.AssetDelivery
+• Lettuce.BattleEngine.BattleSchema.Proto
+• Lettuce.Presentation.Activity.CardTrade
+• Lettuce.Presentation.Common.Foundation
+• UnityEngine.TextRenderingModule
+• Lettuce.Infrastructure.Audio
+• Lettuce.Infrastructure.CardFacade
+• Lettuce.Presentation.Common.CardAcquire
+• Lettuce.ApiClient.Connection
+• Lettuce.Takasho.Impl.ApiCaller
+• Lettuce.Infrastructure.ActivityTransaction
+• Lettuce.Presentation.Common.ItemAcquire
+• UnityEngine.InputLegacyModule
+• Lettuce.Presentation.Common.CardSkinAcquire
+• Lettuce.Presentation.Common.CardSkinExchange
+• UnityEngine.Physics2DModule
+• Muscle.Storage
+• DGFW.LightweightAnimation.Runtime
+• Firebase.Analytics
+• Lettuce.Presentation.Activity.Loading.Runtime
+• UniTask.Linq
+• unity-webview
+• Kvrom.Core
+• MasterMemory
+• Sharin.Vfx.Runtime
+• Lettuce.Infrastructure.MainCamera
+• Lettuce.Infrastructure.Scene
+• Lettuce.Presentation.Common.Page
+• Microsoft.Extensions.Logging
+• Aladin.Crypto
+• bridging_model
+• Lettuce.Presentation.Appearance
+• Lettuce.Presentation.BattleRankMatchPvE
+• Sharin.Actors.Runtime
+• UnityEngine.AudioModule
+• GuardProperty.MessagePack
+• Lettuce.Infrastructure.TouchInput
+• Lettuce.Presentation.Activity.CardMilestone
+• Lettuce.Presentation.Activity.CardSkinAcquire
+• Microsoft.Extensions.Options
+• Lettuce.Infrastructure.Error
+• Sharin.Portable.Automaton.Runtime
+• UnityEngine.DirectorModule
+• DefaultPlayables
+• Google.Play.Common
+• Lettuce.Infrastructure.Advertising
+• Lettuce.Infrastructure.Auth
+• Microsoft.Extensions.Configuration.Binder
+• Lettuce.Infrastructure.CommandEngine.Runtime
+• Lettuce.Infrastructure.Localization
+• Microsoft.Extensions.Configuration
+• UnityEngine.AssetBundleModule
+• AssetFetcher.Unity
+• Lettuce.Infrastructure.ScreenEffect
+• Lettuce.Presentation.BattlePvP
+• Lettuce.Presentation.BattleSolo
+• Aladin.Crypto.Unity
+• bridging_model_serializer
+• GoogleSignIn
+• Lettuce.Infrastructure.Font
+• Lettuce.Infrastructure.ItemShot.Core
+• Lettuce.Infrastructure.Supply.BattleCoin.Core.Runtime
+• UnityEngine.UnityWebRequestAssetBundleModule
+• Lettuce.Infrastructure.Supply.DeckShield.Core.Runtime
+• Sharin.Audio.CriAtom.Runtime
+• Lettuce.Infrastructure.Library.UI
+• Lettuce.Infrastructure.UserSettings
+• Lettuce.Infrastructure.WebView
+• UnityEngine.JSONSerializeModule
+• UnityEngine.SharedInternalsModule
+• Google.Play.Core
+• Lettuce.Infrastructure.Impl.GlobalException
+• Lettuce.Infrastructure.Supply
+• Lettuce.Presentation.BackKey
+• Lettuce.Presentation.BattleRoot
+• UnityEngine.UnityWebRequestWWWModule
+• Abdool.Core
+• Lettuce.Infrastructure.BattleResume
+• Lettuce.Infrastructure.ErrorReporting
+• Lettuce.Infrastructure.SpanningDate
+• Lettuce.Infrastructure.WebRequest
+• PlatformerSignIn.Google.Runtime
+• Sharin.LocalPushNotifications.Runtime
+• UnityEngine.ImageConversionModule
+• UnityEngine.ScreenCaptureModule
+• UnityEngine.SpriteShapeModule
+• Lettuce.Application.Boot
+• Lettuce.Firebase
+• Lettuce.Infrastructure.Rainbow
+• Lettuce.Infrastructure.Tutorial
+• Lettuce.Muscle.Integration.Takasho.Storage
+• Lettuce.Infrastructure.BattleSchemaIntegration
+• Lettuce.Infrastructure.LocalNotification
+• Lettuce.Infrastructure.UIPresentation
+• Microsoft.Extensions.Primitives
+• Sharin.Application.Runtime
+• Abdool.Integration.Aladin
+• D4L.Moment
+• Lettuce.ApiClient.Impl
+• Lettuce.Infrastructure.PageTransition
+• Lettuce.Infrastructure.Vfx
+• RadixTrees.FlatBuffers
+• Lettuce.Infrastructure.HomeFooter
+• Lettuce.Infrastructure.PlayerDataMigration
+• Lettuce.Presentation.Boot
+• Sharin.Audio.Core.Runtime
+• Standart.Hash.xxHash
+• FlatBuffers
+• Lettuce.Infrastructure.Vibration
+• Lettuce.Portable.Core
+• Lettuce.SignIn.Impl
+• Google.Play.Review
+• Lettuce.Infrastructure.Config
+• Lettuce.Infrastructure.Page
+• Microsoft.Extensions.Configuration.Abstractions
+• MiniJson.Runtime
+• PlatformerSignIn.Apple.Runtime
+• Sharin.Resources.Common
+• com.unity.cinemachine.lettuce-ported
+• Lettuce.Infrastructure.AppReviewControl
+• Lettuce.Infrastructure.Pack.UI
+• Lettuce.Infrastructure.QualitySettings
+• Lettuce.Presentation.FirstIntroTutorial
+• Microsoft.Extensions.Options.ConfigurationExtensions
+• Unity.RenderPipeline.Universal.ShaderLibrary
+• Cgcf.Runtime
+• Lettuce.ApiClient.Core
+• Lettuce.Infrastructure.ExternalEndpoint
+• Lettuce.Infrastructure.GraphicsIntegration
+• Lettuce.Infrastructure.Impl.Vibration
+• Lettuce.Infrastructure.UISplash
+• Microsoft.Extensions.Logging.Configuration
+• Muscle.Dto
+• Devwire.Core
+• Grpc.Net.Common
+• Lettuce.BattleEngine.BattleSchema.Converter
+• Lettuce.Infrastructure.DeviceLocale
+• Lettuce.Infrastructure.Friend
+• Lettuce.SignIn.Core
+• Sharin.Advertisement.IosSupport.Runtime
+• System.Runtime.CompilerServices.Unsafe
+• Aladin.Core.Unity
+• D4L.Moment.Takasho
+• D4L.Tasks.UniTask
+• DiskUsage
+• Lettuce.Infrastructure.DataPath.Runtime
+• Lettuce.Infrastructure.Impl.BakedData
+• MessagePack.Annotations
+• System.IO.Compression.FileSystem
+• Unity.InternalAPIEngineBridge.001
+• Lettuce.Converter.Asset3d
+• Lettuce.EntryPoint
+• Lettuce.Infrastructure.Asset3D
+• Lettuce.Infrastructure.Feed
+• Lettuce.Infrastructure.Impl.Core
+• Lettuce.Infrastructure.VersionManager
+• Lettuce.NPF.ServiceConfiguration
+• Lettuce.SignIn.ServiceConfiguration
+• Lettuce.Takasho.ServiceConfiguration
+• System.Configuration
+• Lettuce.Infrastructure.Boot
+• Lettuce.Infrastructure.GlobalException
+• Lettuce.Infrastructure.Logging
+• PlatformerSignIn.Foundation.Runtime
+• Unity.Burst.Unsafe
+• __Generated
+Assembly "Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper" encontrado.
+Listando clases en "Lettuce.Takasho.Impl.TakashoWrapper.ApiWrapper":
+  - <Module>
+  - <CallApi>d__0
+  - ActionSyncAccountLinkStateV1Wrapper
+  - <CallApi>d__0
+  - ActionSyncStatesV1Wrapper
+  - <CallApi>d__0
+  - AlbumChangeOrderV1Wrapper
+  - <CallApi>d__0
+  - AlbumDeleteV1Wrapper
+  - <CallApi>d__0
+  - AlbumGetDetailV1Wrapper
+  - <CallApi>d__0
+  - AlbumGetOtherDetailV1Wrapper
+  - <CallApi>d__0
+  - AlbumListV1Wrapper
+  - <CallApi>d__0
+  - AlbumSetV1Wrapper
+  - <CallApi>d__0
+  - AnalyticsLogSendAnalyticsLogV1Wrapper
+  - <CallApi>d__0
+  - CardGetDesiresV1Wrapper
+  - <CallApi>d__0
+  - CardIsUsedV1Wrapper
+  - <CallApi>d__0
+  - CardSetDesiresV1Wrapper
+  - <CallApi>d__0
+  - CardSkinExchangeV1Wrapper
+  - <CallApi>d__0
+  - CardSkinGetExchangedCatalogsV1Wrapper
+  - <CallApi>d__0
+  - CardSkinIsUsedV1Wrapper
+  - <CallApi>d__0
+  - CollectionGetSomeonesV1Wrapper
+  - <CallApi>d__0
+  - CollectionLikeV1Wrapper
+  - <CallApi>d__0
+  - CollectionOtherListV1Wrapper
+  - <CallApi>d__0
+  - CollectionSetMyBestV1Wrapper
+  - <CallApi>d__0
+  - DeckDeleteV1Wrapper
+  - <CallApi>d__0
+  - DeckGetListV1Wrapper
+  - <CallApi>d__0
+  - DeckGetRentalDecksV1Wrapper
+  - <CallApi>d__0
+  - DeckSaveV1Wrapper
+  - <CallApi>d__0
+  - FaveInsightV1Wrapper
+  - <CallApi>d__0
+  - FeedChallengeV2Wrapper
+  - <CallApi>d__0
+  - FeedGetTimelineV1Wrapper
+  - <CallApi>d__0
+  - FeedHealChallengePowerV1Wrapper
+  - <CallApi>d__0
+  - FeedRenewTimelineV1Wrapper
+  - <CallApi>d__0
+  - FeedShareV1Wrapper
+  - <CallApi>d__0
+  - FeedSnoopV1Wrapper
+  - <CallApi>d__0
+  - FriendApproveRequestV1Wrapper
+  - <CallApi>d__0
+  - FriendCancelSentRequestsV1Wrapper
+  - <CallApi>d__0
+  - FriendDeleteV1Wrapper
+  - <CallApi>d__0
+  - FriendListV1Wrapper
+  - <CallApi>d__0
+  - FriendRejectRequestsV1Wrapper
+  - <CallApi>d__0
+  - FriendSearchV1Wrapper
+  - <CallApi>d__0
+  - FriendSendRequestsV1Wrapper
+  - <CallApi>d__0
+  - ItemShopExchangeV1Wrapper
+  - <CallApi>d__0
+  - ItemShopGetPurchaseSummariesV1Wrapper
+  - <CallApi>d__0
+  - ItemShopLiquidateV1Wrapper
+  - <CallApi>d__0
+  - ItemShopPurchaseV1Wrapper
+  - <CallApi>d__0
+  - MissionCompleteGroupRewardStepV1Wrapper
+  - <CallApi>d__0
+  - MissionCompleteV2Wrapper
+  - <CallApi>d__0
+  - MissionGetGroupRewardStepStatesV1Wrapper
+  - <CallApi>d__0
+  - MissionIsCompletedV1Wrapper
+  - <CallApi>d__0
+  - MountChangeOrderV1Wrapper
+  - <CallApi>d__0
+  - MountDeleteV1Wrapper
+  - <CallApi>d__0
+  - MountGetDetailV1Wrapper
+  - <CallApi>d__0
+  - MountGetOtherDetailV1Wrapper
+  - <CallApi>d__0
+  - MountListV1Wrapper
+  - <CallApi>d__0
+  - MountSetV1Wrapper
+  - <CallApi>d__0
+  - NotificationGetSettingsV1Wrapper
+  - <CallApi>d__0
+  - NotificationSaveSettingsV1Wrapper
+  - <CallApi>d__0
+  - PackGetDetailV2Wrapper
+  - <CallApi>d__0
+  - PackGetPackPowerV1Wrapper
+  - <CallApi>d__0
+  - PackShopExchangeV1Wrapper
+  - <CallApi>d__0
+  - PackShopPurchaseV2Wrapper
+  - <CallApi>d__0
+  - PassGetEntitlementsV1Wrapper
+  - <CallApi>d__0
+  - PlayerDeleteAccountV1Wrapper
+  - <CallApi>d__0
+  - PlayerUnlinkAccountV1Wrapper
+  - <CallApi>d__0
+  - PlayerLevelMayLevelUpV1Wrapper
+  - <CallApi>d__0
+  - PlayerProfileMyProfileV1Wrapper
+  - <CallApi>d__0
+  - PlayerProfileOtherPlayerProfileV1Wrapper
+  - <CallApi>d__0
+  - PlayerProfileSaveMyProfileV1Wrapper
+  - <CallApi>d__0
+  - PlayerResourcesGetNewEmblemArrivalV1Wrapper
+  - <CallApi>d__0
+  - PlayerResourcesMarkAsViewedNewEmblemArrivalV1Wrapper
+  - <CallApi>d__0
+  - PlayerResourcesSyncV1Wrapper
+  - <CallApi>d__0
+  - PlayerSettingsGetInfoV1Wrapper
+  - <CallApi>d__0
+  - PlayerSettingsSaveInfoV1Wrapper
+  - <CallApi>d__0
+  - PlayerStorageGetEntriesV1Wrapper
+  - <CallApi>d__0
+  - PlayerStorageSetEntriesV1Wrapper
+  - <CallApi>d__0
+  - PresentBoxGetNewArrivalV1Wrapper
+  - <CallApi>d__0
+  - PresentBoxListHistoriesV1Wrapper
+  - <CallApi>d__0
+  - PresentBoxListV1Wrapper
+  - <CallApi>d__0
+  - PresentBoxReceiveV1Wrapper
+  - <CallApi>d__0
+  - PvpCasualDeleteMatchingV2Wrapper
+  - <CallApi>d__0
+  - PvpCasualFinishBattleV1Wrapper
+  - <CallApi>d__0
+  - PvpCasualGetMatchingResultV2Wrapper
+  - <CallApi>d__0
+  - PvpCasualRequestPrivateMatchingV2Wrapper
+  - <CallApi>d__0
+  - PvpCasualRequestPublicMatchingV2Wrapper
+  - <CallApi>d__0
+  - PvpCasualStartBattleV2Wrapper
+  - <CallApi>d__0
+  - PvpEventDeleteMatchingV2Wrapper
+  - <CallApi>d__0
+  - PvpEventFinishBattleV1Wrapper
+  - <CallApi>d__0
+  - PvpEventGetEmblemProfileV1Wrapper
+  - <CallApi>d__0
+  - PvpEventGetMatchingResultV2Wrapper
+  - <CallApi>d__0
+  - PvpEventRequestEmblemMatchingV2Wrapper
+  - <CallApi>d__0
+  - PvpEventStartBattleV2Wrapper
+  - <CallApi>d__0
+  - PvpRankDeclareLossV1Wrapper
+  - <CallApi>d__0
+  - PvpRankDeleteMatchingV1Wrapper
+  - <CallApi>d__0
+  - PvpRankFinishBattleV1Wrapper
+  - <CallApi>d__0
+  - PvpRankGetCurrentSeasonProfileV1Wrapper
+  - <CallApi>d__0
+  - PvpRankGetCurrentSeasonRankingV1Wrapper
+  - <CallApi>d__0
+  - PvpRankGetMatchingResultV1Wrapper
+  - <CallApi>d__0
+  - PvpRankGetPastSeasonRankingV1Wrapper
+  - <CallApi>d__0
+  - PvpRankGetSeasonResultV1Wrapper
+  - <CallApi>d__0
+  - PvpRankListRecentBattleRecordsV1Wrapper
+  - <CallApi>d__0
+  - PvpRankRequestMatchingV1Wrapper
+  - <CallApi>d__0
+  - PvpRankStartBattleV1Wrapper
+  - <CallApi>d__0
+  - ShopGetNewNotificationV1Wrapper
+  - <CallApi>d__0
+  - ShopMarkAsViewedV1Wrapper
+  - <CallApi>d__0
+  - SignInWithAppleGenerateTokenV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleFinishEventBattleV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleFinishStepupBattleV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleGetEventBattlesV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleGetEventPowersV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleGetStepupBattlesV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleHealEventPowerV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleStartEventBattleV1Wrapper
+  - <CallApi>d__0
+  - SoloBattleStartStepupBattleV1Wrapper
+  - <CallApi>d__0
+  - SystemAuthorizeV1Wrapper
+  - <CallApi>d__0
+  - SystemLoginV1Wrapper
+  - <CallApi>d__0
+  - SystemPartialMaintenanceV1Wrapper
+  - <CallApi>d__0
+  - ThankRewardSendToBotV1Wrapper
+  - <CallApi>d__0
+  - ThankRewardSendV1Wrapper
+  - <CallApi>d__0
+  - TradeAcceptProposalV2Wrapper
+  - <CallApi>d__0
+  - TradeConfirmV1Wrapper
+  - <CallApi>d__0
+  - TradeGetFriendsV1Wrapper
+  - <CallApi>d__0
+  - TradeGetHistoryV1Wrapper
+  - <CallApi>d__0
+  - TradeGetSettingV1Wrapper
+  - <CallApi>d__0
+  - TradeGetTradePowerV1Wrapper
+  - <CallApi>d__0
+  - TradeGetV1Wrapper
+  - <CallApi>d__0
+  - TradeHealTradePowerV1Wrapper
+  - <CallApi>d__0
+  - TradeReceiveDepositsV1Wrapper
+  - <CallApi>d__0
+  - TradeReceiveOutcomesV1Wrapper
+  - <CallApi>d__0
+  - TradeRejectV1Wrapper
+  - <CallApi>d__0
+  - TradeSaveSettingV1Wrapper
+  - <CallApi>d__0
+  - TradeSubmitProposalV2Wrapper
+  - <CallApi>d__0
+  - TrophyCompleteV1Wrapper
+  - <CallApi>d__0
+  - TrophyGetStatusV1Wrapper
+  - <CallApi>d__0
+  - TutorialChallengeFeedV1Wrapper
+  - <CallApi>d__0
+  - TutorialChoiceExchangeRouteV1Wrapper
+  - <CallApi>d__0
+  - TutorialCompleteV1Wrapper
+  - <CallApi>d__0
+  - TutorialGetFeedTimelineV1Wrapper
+  - <CallApi>d__0
+  - TutorialPackPurchaseV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetAboutUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetECommerceLawUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetGameHintUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetHowToUpdateUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetNewsDetailUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetNewsV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetPaymentServiceActUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetPrivacyPolicyUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetSpecifiedCommercialTransactionLawUrlV1Wrapper
+  - <CallApi>d__0
+  - WebviewGetTermsOfServiceU
